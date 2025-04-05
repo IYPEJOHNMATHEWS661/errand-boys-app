@@ -40,7 +40,7 @@ IDE: Android Studio
 
 How to Run
 Clone this repository:
- git clone https://github.com/your-username/errandboy.git
+ git clone https://github.com/your-IYPEJOHNMATHEWS661/errandboy.git
 
 
 Open the project in Android Studio
